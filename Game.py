@@ -1,19 +1,7 @@
 import pygame
-from random import randint,uniform
+from settings import *
 from sys import exit
-
-# paths to images
-path_laser = 'C:/Users/mendy/OneDrive/שולחן העבודה/asteroid_shooter_files/project_3 - Placing elements/graphics/laser.png'
-path_ship = 'C:/Users/mendy/OneDrive/שולחן העבודה/asteroid_shooter_files/project_3 - Placing elements/graphics/ship.png'
-path_meteor = 'C:/Users/mendy/OneDrive/שולחן העבודה/asteroid_shooter_files/project_3 - Placing elements/graphics/meteor.png'
-path_bg = 'C:/Users/mendy/OneDrive/שולחן העבודה/asteroid_shooter_files/project_3 - Placing elements/graphics/background.png'
-path_text = 'C:/Users/mendy/OneDrive/שולחן העבודה/asteroid_shooter_files/project_3 - Placing elements/graphics/subatomic.ttf'
-
-
-# paths to sound
-laser_sound_path = 'C:/Users/mendy/OneDrive/שולחן העבודה/asteroid_shooter_files/project_3 - Placing elements/sounds/laser.ogg'
-meteor_sound_path = 'C:/Users/mendy/OneDrive/שולחן העבודה/asteroid_shooter_files/project_3 - Placing elements/sounds/explosion.wav'
-game_sound_path = 'C:/Users/mendy/OneDrive/שולחן העבודה/asteroid_shooter_files/project_3 - Placing elements/sounds/music.wav'
+from random import randint,uniform
 
 
 class Ship(pygame.sprite.Sprite):
