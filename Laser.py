@@ -1,6 +1,6 @@
 import pygame
 
-path_laser = 'C:/Users/mendy/OneDrive/שולחן העבודה/asteroid_shooter_files/project_3 - Placing elements/graphics/laser.png'
+path_laser = '../SpaceShip/const/graphics/laser.png'
 
 
 class Laser(pygame.sprite.Sprite):

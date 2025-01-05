@@ -1,7 +1,7 @@
 import pygame
 
 WINDOW_WIDTH, WINDOW_HEIGHT = 1000,640
-path_ship = 'C:/Users/mendy/OneDrive/שולחן העבודה/asteroid_shooter_files/project_3 - Placing elements/graphics/ship.png'
+path_ship = '../SpaceShip/const/graphics/ship.png'
 
 
 class Ship(pygame.sprite.Sprite):
