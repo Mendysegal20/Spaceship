@@ -1,12 +1,10 @@
 
-###
-🚀 Laser Ship Game
+# 🚀 Laser Ship Game
 
 A 2D shooting game built with Python and Pygame.
 Control your ship and shoot lasers while avoiding asteroids!
 
-##
-🛠️ Installation
+## 🛠️ Installation
 
 1. Clone the repository
    - git clone https://github.com/Mendysegal20/Spaceship.git
@@ -16,7 +14,6 @@ Control your ship and shoot lasers while avoiding asteroids!
    - pip install -r requirements.txt
 
 
-##
-▶️ How to Run
+## ▶️ How to Run
   python Game.py
 
