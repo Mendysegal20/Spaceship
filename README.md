@@ -8,7 +8,7 @@ Control your ship and shoot lasers while avoiding asteroids!
 
 1. Clone the repository
    - git clone https://github.com/Mendysegal20/Spaceship.git
-   - cd <repo-name>
+   - cd Spaceship
 
 2. Install dependencies
    - pip install -r requirements.txt
